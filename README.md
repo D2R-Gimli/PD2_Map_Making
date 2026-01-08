@@ -53,5 +53,6 @@ This setup is meant as a **map-making sandbox**, giving you:
 - A fast entry point into PD2 map creation
 - Reliable ingame testing
 - A clean foundation to build upon
+- To start map making i've used the already existing "Halls of Torture" Map, that i've made -> this makes things easier to start with (item code = t17 for the map).
 
 Happy mapping!
